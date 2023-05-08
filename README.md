@@ -20,11 +20,15 @@ Option 1
 Register
 
 Enter your username: Yan
+
 Enter your email: yan@gmail.com
+
 Enter your password: Software Engineer 
+
 Enter your security number: Enter your security number (6 digits): 111111 
 
 Successful Register
+
 Press enter to continue...
 
 Option 2
@@ -33,9 +37,11 @@ Option 2
 Login
 
 Enter your email: yan@gmail.com
+
 Enter your password: Software Engineer
 
 Successful Login
+
 Press enter to continue...
 
 Option 3
@@ -44,11 +50,15 @@ Option 3
 Change Password
 
 Enter your email: yan@gmail.com
+
 Enter your security number: Enter your security number (6 digits): 111111 
+
 Enter your new password: SoftwareEngineer
+
 Confirm your new password: SoftwareEngineer
 
 Password successfully changed
+
 Press enter to continue...
 
 Option 4
@@ -76,8 +86,11 @@ Option 1
 Quiz Game
 
 What is the name of the famous bridge in Cambridge that is a popular spot for punting?
+
 Enter your answer: The Bridge of Sighs
+
 Correct! You earned 10 VRC.
+
 Play again(1) or Back to Menu(2):  
 
 Option 2
@@ -86,15 +99,21 @@ Option 2
 Shop
 
 Cambridge Goods For Study:           Cambridge Souvenirs:           Cambridge Brand Clothes:
+
 Pen - 10 VRC(1)                      Poster - 25 VRC(4)             Scarf - 40 VRC(7)
+
 Eraser - 15 VRC(2)                   Book - 30 VRC(5)               Hat - 45 VRC(8)
+
 Notebook - 20 VRC(3)                 Umbrella - 35 VRC(6)           Sweatshirt - 50 VRC(9)
 
 Back to Menu(0)
 
 Balance: 10 VRC
+
 Choose an option: 1
+
 Purchase successful. You have 0 VRC remaining.
+
 Choose another item or go back to the menu:
 
 Option 3
@@ -110,14 +129,19 @@ Option 4
 Profile
 
 Name: Yan
+
 Email: yan@gmail.com
+
 Balance: 0 VRC
+
 Inventory:
+
 - Pen (1)
 
 Press enter to continue...
 
 Option 5
+-----------------------
 
 Welcome to Rifter
 
