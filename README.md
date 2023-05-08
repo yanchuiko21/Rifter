@@ -68,7 +68,7 @@ Exit
 
 Thank you for using Rifter. Have a good day!
 
-After Sucessfull Register&Login
+After Sucessfull Register or Login
 -----------------------
 
 Menu
